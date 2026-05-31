@@ -10,7 +10,7 @@ feature_pyramid: true
 loss_args:
   type: AutoBCE
 batch_size: 8
-epochs: 100
+epochs: 20
 learning_rate: 0.001
 # Data Configuration
 data_threads: 4
